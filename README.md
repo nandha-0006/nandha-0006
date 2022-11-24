@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NandhaKumar P</h1>
+<h1 align="center">Hi 👋, I'm NandhaKumar </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandha-0006&label=Profile%20views&color=0e75b6&style=flat" alt="nandha-0006" /> </p>
 
 - 📫 How to reach me **nandhakumarnandy31@gmail.com**
